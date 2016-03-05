@@ -59,12 +59,11 @@ O MongoDb é um banco e dados NoSQL open-source e orientado a documentos JSON. E
  - [TDD]()
 	 - [assert]()
 	 - [chai]()
- - [Teste Atômicos]
+ - [Teste Atômicos]()
  - [Express]()
 	 - [Model]()
 	 - [Controller]()
 	 - [Routes]()
-Aula 11: 11/12/2015
  - [Express]()
 	 - [Events]()
 	 - [Promises]()
