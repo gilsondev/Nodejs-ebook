@@ -8,8 +8,8 @@ O MongoDb é um banco e dados NoSQL open-source e orientado a documentos JSON. E
 
  - [Teoria](./theory.md)
    - [V8](./theory.md#v8)
-   - Single thread
-   - Event Loop
+   - [Single thread](./theory.md#single-thread)
+   - [Event Loop](./theory.md#event-loop)
    - I/O Async
    - Libuv
    - Event Driven
