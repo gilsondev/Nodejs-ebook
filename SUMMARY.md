@@ -2,7 +2,7 @@
 
 * [Introdução](README.md)
 * [Teoria](./theory.md)
-	* [V8](./theory.md#v8)
+	* [V8](#v8)
 	* [Single thread](./theory.md#single-thread)
 	* [Event Loop](./theory.md#event-loop)
 	* [I/O Async](./theory.md#io-async)
