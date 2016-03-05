@@ -1,3 +1,7 @@
-# My Awesome Book
+# Node.js
 
-This file file serves as your book's preface, a great place to describe your book's content and ideas.
+Nesse curso abordarei a versão 5 do Node.js.
+
+O MongoDb é um banco e dados NoSQL open-source e orientado a documentos JSON. Ele foi criado para ser escalado horizontalmente, conceito que veremos mais a frente.
+
+## Índice
